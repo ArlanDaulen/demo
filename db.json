@@ -1,14 +1,23 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "users": {
+    "One media": {
+      "accName": "One media",
+      "accImage": "https://static.wikia.nocookie.net/kuplinov/images/7/76/Kuplinov_play_logo.jpg/revision/latest?cb=20151221010615&path-prefix=ru",
+      "subscribers": "10 million",
+      "videos": {
+        "videoName": "VENOM 2 Official Trailer (2021)",
+        "views": "10021",
+        "videoImage": "https://kino-teatr.ua/public/main/news/2021-05/article_11612.jpg",
+        "video": "https://youtu.be/rrwBnlYOp4g",
+        "dt": "10.05.2021",
+       "likes": "637543",
+        "dislikes": "2131",
+        "description": "VENOM 2 Official Trailer (2021) Tom Hardy, Let There Be Carnage, Action Movie HD 2021 - Sony",
+       "comments": {
+          "Nagibator": "WTF?",
+          "Elsh": "GG"
+        }
+      }
+    }
   }
 }
